@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1701913567 source:c:\puc\proj\grafos\grafos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctime>
+	"graph.h"
+
+1701916353 source:c:\puc\proj\grafos\grafos\graph.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	"graph.h"
+	"dynFila.h"
+	"dynPlha.h"
+
+1701915808 c:\puc\proj\grafos\grafos\graph.h
+	<iostream>
+
+1701640041 source:c:\puc\proj\grafos\grafos\dynfila.cpp
+	<iostream>
+	<cstddef>
+	<new>
+	"dynFila.h"
+
+1701640041 c:\puc\proj\grafos\grafos\dynfila.h
+	<iostream>
+	"vrtce.h"
+
+1701640041 c:\puc\proj\grafos\grafos\vrtce.h
+	<iostream>
+
+1701643150 source:c:\puc\proj\grafos\grafos\dynpilha.cpp
+	<iostream>
+	<new>
+	<cstddef>
+	"dynPlha.h"
+
+1701643150 c:\puc\proj\grafos\grafos\dynplha.h
+	<iostream>
+	"vrtce.h"
+
